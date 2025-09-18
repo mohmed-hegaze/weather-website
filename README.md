@@ -2,7 +2,6 @@
 
 تطبيق الطقس هو تطبيق ويب بسيط وأنيق يوفر معلومات الطقس في الوقت الفعلي لأي مدينة في العالم.
 
-![Weather App Preview](https://i.imgur.com/example.png)
 
 ## 🌟 المميزات
 
@@ -81,3 +80,4 @@ const API_KEY = "YOUR_API_KEY_HERE";
 
 - الاسم: [mohmed-hegaze]
 - GitHub: [@username](https://github.com/username)
+
