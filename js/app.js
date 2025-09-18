@@ -1,4 +1,4 @@
-const API_KEY = 'a66c311a7d6d46fb949222953251709';
+const API_KEY = 'YOUR API_KEY';
 const API_URL = 'https://api.weatherapi.com/v1/current.json';
 
 const cityInput = document.getElementById('cityInput');
@@ -91,4 +91,5 @@ cityInput.addEventListener('input', () => {
     if (cityInput.value.trim() === '') {
         weatherInfo.innerHTML = '';
     }
+
 });
